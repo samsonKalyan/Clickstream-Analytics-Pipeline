@@ -12,10 +12,12 @@
     *S3/Local storage
 
 ## Features:
-    *Synthetic data generation
-    *Sessionization logic
-    *Aggregated analytics tables
+    * Synthetic data generation
+    * Sessionization logic
+    * Aggregated analytics tables
 
 ## Description:
-    *This project simulates how a real e-commerce company tracks and analyzes user behavior on their website. The goal is to take raw clickstream events, process them at scale, and turn them into useful business insights like daily active users, session behavior, and conversions.
+    *This project simulates how a real e-commerce company tracks and analyzes user behavior 
+    on their website. The goal is to take raw clickstream events, process them at scale, 
+    and turn them into useful business insights like daily active users, session behavior, and conversions.
 
